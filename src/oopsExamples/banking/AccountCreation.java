@@ -31,7 +31,7 @@ public class AccountCreation {
 	public static void main(String[] args) {
 		
 		AccountCreation acreate = new AccountCreation();
-		acreate.SaveProfileInfo("Sandeep","06/28/1981", "10034 foxboror","510-509");
+		acreate.SaveProfileInfo("Anisha","06/28/1985", "10034 foxboror","510-509");
 		
 	}
 
