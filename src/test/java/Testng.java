@@ -1,7 +1,8 @@
-package test.AutomationTest.tescases;
+/*package test.java;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import oopsExamples.arithmetic.Arithmetic;
+
+import main.java.com.arithmetic.Arithmetic;
 
 public class Testng {
 
@@ -14,3 +15,4 @@ public class Testng {
 	}
 
 }
+*/

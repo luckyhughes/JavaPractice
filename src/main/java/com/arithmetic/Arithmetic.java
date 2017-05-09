@@ -1,4 +1,4 @@
-package oopsExamples.arithmetic;
+package main.java.com.arithmetic;
 
 public class Arithmetic{
 	

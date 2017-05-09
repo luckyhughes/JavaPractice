@@ -1,5 +1,8 @@
-package test.AutomationTest.tescases;
-import oopsExamples.arithmetic.Arithmetic; //import src folder arithmetic to test the functionality of that module/feature/methods
+package test.java;
+
+import main.java.com.arithmetic.Arithmetic;
+
+//import src folder arithmetic to test the functionality of that module/feature/methods
 
 public class ArithmeticTest {
 	

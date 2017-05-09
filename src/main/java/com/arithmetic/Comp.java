@@ -1,4 +1,4 @@
-package oopsExamples.arithmetic;
+package main.java.com.arithmetic;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

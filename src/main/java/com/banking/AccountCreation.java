@@ -1,4 +1,4 @@
-package oopsExamples.banking;
+package main.java.com.banking;
 
 
 public class AccountCreation {

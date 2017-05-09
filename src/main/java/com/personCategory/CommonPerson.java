@@ -1,4 +1,4 @@
-package oopsExamples.personCategory;
+package main.java.com.personCategory;
 
 public class CommonPerson {
 		

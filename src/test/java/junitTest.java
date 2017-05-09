@@ -1,9 +1,11 @@
-package test.AutomationTest.tescases;
+package test.java;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
-import oopsExamples.arithmetic.Arithmetic;
+import main.java.com.arithmetic.Arithmetic;
+
+
 
 public class junitTest {
 	
